@@ -1,0 +1,56 @@
+Input_Query,Expected_Intent,Generated_Response,Validation_Status
+How do I reset my account password?,Account Management,"Subject: Instructions to Reset Your Account Password
+
+Hello,
+
+Thank you for reaching out to us. Resetting your account password is a straightforward process. Please follow the steps below:
+
+1.  **Navigate to the Login Page:** Go to our website and click on the ""Login"" button.
+2.  **Select ""Forgot Password"":** On the login screen, click the link that says ""Forgot Password?"" or ""Reset Password"" located near the login fields.
+3.  **Enter Your Email:** Provide the email address associated with your account and click ""Submit.""
+4.  **Check Your Inbox:** You will receive an email containing a secure password reset link. If you do not see it within a few minutes, please check your Spam or Junk folder.
+5.  **Create a New Password:** Click the link in the email and follow the prompts to choose a new, secure password.
+
+For your security, password reset links expire after a certain period. If the link does not work, please repeat the steps above to request a new one.
+
+If you encounter any issues or do not have access to the email address on file, please let us know, and we will be happy to assist you further.
+
+Best regards,
+
+[Your Name/Company Support Team]",✅ PASS | Validation Successful
+Can you give me a recipe for chocolate cake?,Account Management,"Hello! Thank you for reaching out. We would be more than happy to help you with a classic, easy-to-follow recipe for a moist chocolate cake.
+
+This ""One-Bowl"" recipe is a favorite for its simplicity and delicious results.
+
+### **Classic Moist Chocolate Cake**
+*Prep time: 15 mins | Bake time: 30-35 mins | Yields: One 9x13 inch cake or two 8-inch rounds*
+
+#### **Ingredients:**
+*   **Dry:**
+    *   2 cups white sugar
+    *   1 ¾ cups all-purpose flour
+    *   ¾ cup unsweetened cocoa powder
+    *   1 ½ teaspoons baking powder
+    *   1 ½ teaspoons baking soda
+    *   1 teaspoon salt
+*   **Wet:**
+    *   2 large eggs
+    *   1 cup whole milk
+    *   ½ cup vegetable oil
+    *   2 teaspoons vanilla extract
+    *   1 cup boiling water
+
+#### **Instructions:**
+1.  **Preheat & Prep:** Preheat your oven to 350°F (175°C). Grease and flour your baking pan(s).
+2.  **Mix Dry Ingredients:** In a large bowl, whisk together the sugar, flour, cocoa, baking powder, baking soda, and salt.
+3.  **Add Wet Ingredients:** Add the eggs, milk, oil, and vanilla. Beat on medium speed with a hand mixer or whisk by hand for about 2 minutes. 
+4.  **The Secret Step:** Stir in the boiling water by hand. (Note: The batter will be very thin; this is normal and ensures a moist crumb).
+5.  **Bake:** Pour the batter into the prepared pans. 
+    *   For 8-inch rounds: Bake for 30–35 minutes.
+    *   For a 9x13 inch pan: Bake for 35–40 minutes.
+    *   *Test by inserting a toothpick into the center; it should come out clean.*
+6.  **Cool:** Let the cake cool in the pan for 10 minutes, then transfer to a wire rack to cool completely before frosting.
+
+**Quick Tip:** This cake pairs beautifully with a simple chocolate buttercream or a dusting of powdered sugar and fresh berries.
+
+If you have any other questions or need further assistance with your baking, please don't hesitate to ask. Happy baking!","❌ FAIL | The generated response fails to align with the expected contextual intent of account management, providing a baking recipe instead."
